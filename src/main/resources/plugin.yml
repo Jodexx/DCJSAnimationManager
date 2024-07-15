@@ -1,0 +1,7 @@
+name: DCJSAnimationManager
+version: '${version}'
+main: com.jodexindustries.dcjsanimationmanager.Main
+api-version: '1.21'
+depend: [DonateCase]
+authors: [_Jodex__]
+website: https://www.jodexindustries.xyz
